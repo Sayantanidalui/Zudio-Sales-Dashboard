@@ -19,6 +19,11 @@ An interactive Power BI dashboard visualizing Zudio's sales performance across c
 - **October** had the **highest monthly sales** (₹5.9M).
 - Stable **profit margin** of **40%** indicates healthy profitability.
 
+## The Dashboard
+
+![Dashboard](https://github.com/user-attachments/assets/56f225fc-43da-468d-9d74-cff91ed45a38)
+
+
 ## ⚠️ Limitation
 The dataset contained very minimal variation in values. As a result some visuals may not show strong differences or trends. This project was focused more on dashboard structure, design, DAX practice than deep insights.
 
